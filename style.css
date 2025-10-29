@@ -1,0 +1,15 @@
+
+    #pertama {
+    }
+    .kedua{
+        color: green;
+    }
+    .content{
+        border: 1px solid black;
+        border-radius: 20px;
+        background-image: url(Trollface.png);
+        background-position: center center;
+        padding: 200px;
+        box-sizing: border-box;
+        text-align: center;
+    }
